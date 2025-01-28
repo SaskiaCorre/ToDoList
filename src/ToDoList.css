@@ -1,0 +1,18 @@
+.green {
+  background-color: yellowgreen; /* Couleur de fond pour les tâches terminées */
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+}
+
+.orange {
+  background-color: orange; /* Couleur de fond pour les tâches non terminées */
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+}
+

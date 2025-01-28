@@ -1,0 +1,48 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.todolist {
+  background-color: #f0f8ff; /* Couleur de fond */
+  padding: 20px; /* Marge interne */
+  border-radius: 10px; /* Coins arrondis pour un meilleur design */
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Ombre légère */
+  font-family: Arial, sans-serif; /* Police par défaut */
+}
+
+.todolist h1 {
+  color: #333; /* Couleur du titre principal */
+}
+
+.todolist h2 {
+  color: #677; /* Couleur du titre secondaire */
+}
+
+.todolist ul {
+  margin-top: 10px; /* Espacement entre le titre et la liste */
+  padding-left: 20px; /* Décalage des puces de liste */
+}
+
+.todolist li {
+  margin-bottom: 8px; /* Espacement entre les éléments de la liste */
+}
+
+.green {
+  background-color: yellowgreen; /* Couleur de fond pour les tâches terminées */
+}
+
+.orange {
+  background-color: orange; /* Couleur de fond pour les tâches non terminées */
+}
