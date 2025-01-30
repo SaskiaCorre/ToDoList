@@ -1,0 +1,17 @@
+.formInput {
+    background-color: white; /* Couleur de fond pour les tâches terminées */
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+    height: 10px;
+    width: 80px;
+    margin-right: 10px;
+  }
+  
+.submitInput {
+    background-color: white; /* Couleur de fond pour les tâches terminées */
+    border-radius: 5px;
+
+}  
